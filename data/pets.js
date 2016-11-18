@@ -53,7 +53,7 @@ const allPets = [
     "gender": "male",
     "age": 4,
     "weight": 5,
-    "name": "Hemingway"
+    "name": "Hamingway"
   },
   {
     "id": "24064151-0d34-4b9e-ba29-d4289bda8fe6",
