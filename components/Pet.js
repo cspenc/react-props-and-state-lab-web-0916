@@ -6,10 +6,6 @@ class Pet extends React.Component {
     this.isAdoptedButton = this.isAdoptedButton.bind(this);
   }
 
-  isAdoptedButton(){
-
-  }
-
   render() {
     let adoptButton
     if(this.props.isAdopted){
